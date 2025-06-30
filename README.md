@@ -7,11 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS&TypeScript**
+- 🌱 I'm currently learning Advanced React Patterns, TypeScript, and AI/ML
+  
+- 👨‍💻 All of my projects are available at [https://portfolio-ashy-nine-39.vercel.app/](https://portfolio-ashy-nine-39.vercel.app/)
 
 - 💬 Ask me about **Java, JavaScript, ReactJs, MySQL, Mongodb, Redux, CSS, HTML**
 
 - 📫 How to reach me **Siddhanttripathi22@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
