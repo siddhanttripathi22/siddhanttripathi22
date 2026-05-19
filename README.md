@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Siddhant Tripathi</h1>
-<h3 align="center">A passionate frontend & full Stack Developer</h3>
+<h3 align="center">A passionate full Stack Developer + AI </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhanttripathi22&label=Profile%20views&color=0e75b6&style=flat" alt="siddhanttripathi22" /> </p>
@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects are available at [https://portfolio-ashy-nine-39.vercel.app/](https://portfolio-ashy-nine-39.vercel.app/)
 
-- 💬 Ask me about **Java, JavaScript, ReactJs, MySQL, Mongodb, Redux, CSS, HTML**
+- 💬 Ask me about **Python, JavaScript, ReactJs, MySQL, Mongodb, Redux, RAG, LLM, Agentic AI**
 
 - 📫 How to reach me **Siddhanttripathi22@gmail.com**
 - 
